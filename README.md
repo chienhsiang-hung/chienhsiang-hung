@@ -1,5 +1,5 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chienhsiang-hung&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chienhsiang-hung&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chienhsiang-hung&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chienhsiang-hung&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chienhsiang-hung&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chienhsiang-hung&theme=nord_dark&utcOffset=8)
 - 👋 Hi, I’m @chienhsiang-hung
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
