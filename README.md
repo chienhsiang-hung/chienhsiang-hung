@@ -1,5 +1,6 @@
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?chienhsianghung)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chienhsiang-hung&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chienhsiang-hung&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chienhsiang-hung&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chienhsiang-hung&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chienhsiang-hung&theme=nord_dark&utcOffset=8)
 
 <!---
